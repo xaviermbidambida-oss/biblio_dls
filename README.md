@@ -240,7 +240,7 @@ Télécharger et installer :
 WampServer
 
 2. Cloner le Projet
-git clone https://github.com/biblio/biblio_dls.git
+git clone https://github.com/xaviermbidambida-oss/biblio_dls.git
 
 Ou copier le projet dans :
 
