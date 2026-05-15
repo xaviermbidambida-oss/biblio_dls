@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# biblio_dls
+Bibliothèque numérique.
+
+>>>>>>> 624ffa1dc8322f887e215cc92e118695e7b1bae2
 README — Plateforme de Gestion d’une Bibliothèque Numérique
 📚 Présentation du Projet
 
@@ -349,4 +355,8 @@ Projet réalisé dans le cadre d’un stage académique par MBALA A ZIEM PATRICI
 
 📜 Licence
 
+<<<<<<< HEAD
 Projet académique et éducatif.
+=======
+Projet académique et éducatif.
+>>>>>>> 624ffa1dc8322f887e215cc92e118695e7b1bae2
